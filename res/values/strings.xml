@@ -2,5 +2,5 @@
 <resources>
 <string name="app_name">ClustyPapers</string>
 <string name="app_label">ClustyPapers</string>
-<string name="set_wallpaper">Définir le fond d\'écran</string>
+<string name="set_wallpaper">Appliquer</string>
 </resources>
